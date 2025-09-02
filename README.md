@@ -1,50 +1,26 @@
-# To-do-list
-Minha primeira To-Do List em React
-Aplicação web simples para organizar tarefas diárias, construída com React. Permite adicionar, marcar como concluída e remover tarefas.
+# ✅ To-Do List em Python
 
-## Tecnologias Utilizadas
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+Aplicação de console simples para organizar tarefas diárias, desenvolvida em **Python**. Criada como **projeto acadêmico** e também para **inclusão no portfólio pessoal**. Permite adicionar tarefas, marcar como concluídas e remover tarefas, demonstrando conceitos fundamentais de programação e manipulação de listas.
 
-## Funcionalidades
+## 👨‍💻 Tecnologias Utilizadas
+- Python 3+
+- Estruturas de dados: listas e dicionários
+- Funções para organizar o código
+- Entrada e saída pelo console
+
+## ⚙️ Funcionalidades
 - Adicionar novas tarefas
 - Marcar tarefas como concluídas
 - Remover tarefas
-- Interface simples e responsiva
+- Listar todas as tarefas no console
 
-## O que Aprendi
-- **Gerenciamento de Estado:** usei o hook `useState` para controlar as tarefas de forma reativa
-- **Componentização:** criei componentes reutilizáveis como `Tarefa` e `FormularioTarefa`
-- **Props e Eventos:** passei dados e funções entre componentes (pai → filho)
-- **Renderização Condicional:** exibi estilos diferentes para tarefas concluídas
+## 📚 O que Aprendi
+- Manipulação de listas e dicionários em Python
+- Uso de funções para organizar o código
+- Entrada de dados via `input()`
+- Lógica condicional e laços de repetição
 
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone <URL-do-seu-repositório>
-
-cd nome-do-projeto
-
-npm install
-
-npm start
-
-
-- Substitua `<URL-do-seu-repositório>` pelo link real do seu repositório.
-
----
-
-### **5️⃣ Salvar o arquivo**
-1. Abaixo da área de edição, em **Commit new file**:
-   - Você pode deixar a mensagem padrão (`Add README.md`) ou escrever algo como “Cria README da To-Do List”.
-2. Clique em **Commit new file**.
-
-✅ Pronto! Agora seu README.md aparece na página principal do repositório, com título, descrição, funcionalidades e instruções de uso.  
-
----
-
-Se você quiser, posso te mostrar **como adicionar os outros arquivos do projeto (App.js, src, package.json) também direto pelo GitHub Web**, sem precisar do PowerShell.  
-
-Quer que eu faça isso?
+## ⏸ Como Executar
+Basta executar `todo.py` com Python 3 ou superior:
+```bash
+python todo.py
